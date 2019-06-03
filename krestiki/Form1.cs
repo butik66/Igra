@@ -66,6 +66,8 @@ namespace krestiki
 
         private void ClearMap()
         {
+
+            //loijoijoijo
             ClearButton(button1);
             ClearButton(button2);
             ClearButton(button3);
